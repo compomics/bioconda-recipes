@@ -39,7 +39,7 @@ requirements:
     - tqdm
     - tomlkit >=0.5,<1
     - click >=7,<9
-    - xgboost >=1,<2
+    - py-xgboost >=1,<2
     - matplotlib-base
     - spectrum_utils >=0.3.5
 
